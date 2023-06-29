@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="P0001_S000_T010_D_BTP_Configuracoes de Produto.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/14/2020 21:27:55</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S170_T010_D_BTP_ObterArquivoDePara.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/13/2020 14:53:58</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S010_T010_D_BTP_LoginGPFA.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/13/2020 15:10:09</Property>
+      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S000_T020_D_BTP_Orquestrador.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/13/2020 14:54:14</Property>
+      <Property Name="RunDuration">00:00:14</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S010_T030_D_BTP_BuscarSolicitacesAlcadaStatus.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/13/2020 14:54:14</Property>
+      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S020_T020_D_BTP_SelecionarRegistrosPesquisa.atmx">
+    <Properties>
+      <Property Name="LastRunTime">07/10/2020 18:16:20</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S000_T010_D_BTP_Main.atmx">
+    <Properties>
+      <Property Name="LastRunTime">10/13/2020 14:54:15</Property>
+      <Property Name="RunDuration">00:00:23</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S000_T011_D_BTP_ConsultarParamExtracaoDocumentoGPFA.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/02/2020 17:21:15</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S040_T011_D_BTP_ExtrairDadosDocumento.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/02/2020 17:21:26</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S040_T010_D_BTP_CapturarDadosDocumentoSolicitacao.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/02/2020 17:21:26</Property>
+      <Property Name="RunDuration">00:00:49</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S030_T040_D_BTP_CapturarDadosSolicitacao.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/10/2020 16:21:06</Property>
+      <Property Name="RunDuration">00:00:40</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S070_T010_D_BTP_LoginOracleEBS_HML.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/23/2020 18:06:28</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S070_T020_D_BTP_IrParaPODelegacoes_OracleEBS.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2021 16:04:04</Property>
+      <Property Name="RunDuration">00:00:17</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S070_T040_D_BTP_LocalizarFuncionario_OracleEBS.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2021 16:40:06</Property>
+      <Property Name="RunDuration">00:36:30</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S000_T010_D_BTP_Principal.atmx">
+    <Properties>
+      <Property Name="LastRunTime">04/26/2020 13:19:32</Property>
+      <Property Name="RunDuration">00:01:24</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S140_T030_D_BTP_RegistrarDadosPlanilha.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2021 19:47:27</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S070_T042_D_BTP_ConsultarGrupoAprovacoesOracleEBS.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2021 19:47:47</Property>
+      <Property Name="RunDuration">00:35:52</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S000_T010_D_BTP_ControleExecucao.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2021 18:54:22</Property>
+      <Property Name="RunDuration">00:01:20</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S070_T010_D_BTP_LoginOracleEBS_PROD.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/04/2021 18:54:21</Property>
+      <Property Name="RunDuration">00:01:17</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S300_T010_D_BTP_AssumirConcluirSolicitacao.atmx">
+    <Properties>
+      <Property Name="LastRunTime">06/11/2020 17:03:55</Property>
+      <Property Name="RunDuration">00:01:15</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Lixo_001.atmx">
+    <Properties>
+      <Property Name="LastRunTime">07/31/2020 18:51:18</Property>
+      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="P0001_S300_T012_D_BTP_AvisoMailFileAttached.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/22/2020 15:43:21</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>
